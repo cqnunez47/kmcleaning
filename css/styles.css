@@ -9,7 +9,10 @@ body, header, nav, main, footer, img, h1, h3, ul, aside, figure, figcaption {
 
 body {
   font-size: 14px;
-  background-color: #F7CACC;
+  background-color: #E1BEE7
+}
+#logo{
+	border-bottom: 1px solid black;
 }
 
 img{
@@ -44,6 +47,7 @@ img{
 /* Style rules for navigation area */
 nav {
 	background-color: #fff;
+	border-top: 1px solid black;
 	border-bottom: 1px solid black;
 }
 
