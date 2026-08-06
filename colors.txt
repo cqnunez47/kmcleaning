@@ -1,0 +1,4 @@
+Pastel Blue: #A8DADC
+Mint Green: #E8F5E9
+Soft Yellow: #FFF9C4
+Lavender Accent: #E1BEE7
